@@ -6,6 +6,7 @@
 - Maven
 - Spring boot 2.2.4
 - PostgresSQL 12
+- Html 5\CSS (Можно React.js, Angular.js, Vue.js и.т.д)
 
 **Задача:**
 
