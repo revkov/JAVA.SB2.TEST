@@ -2,11 +2,11 @@
 
 **Используемые технологии (строгое соблюдение):**
 
-- Java 11 или Java 13
+- Java 11 (или последняя)
 - Maven
-- Spring boot 2.2.4
-- PostgresSQL 12
-- Html 5\CSS (Можно React.js, Angular.js, Vue.js и.т.д)
+- Spring boot 2 (или последняя версия)
+- PostgresSQL 12 (или последняя версия)
+- Html 5\CSS (Можно Thymeleaf, React.js, Angular.js, Vue.js и.т.д)
 
 **Задача:**
 
